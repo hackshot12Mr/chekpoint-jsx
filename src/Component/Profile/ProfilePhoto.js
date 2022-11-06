@@ -2,7 +2,7 @@ import React from 'react'
 
 const ProfilePhoto = () => {
   return (
-    <div>
+    <div className='photo'>
         <img src="/logo192.png" alt="" />
     </div>
   )

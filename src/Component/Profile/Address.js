@@ -2,7 +2,7 @@ import React from 'react'
 
 const Address = () => {
   return (
-    <div>
+    <div className="nejah">
         <p>cite bahri</p>
     </div>
   )

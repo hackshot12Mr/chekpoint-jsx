@@ -2,7 +2,7 @@ import React from 'react'
 
 const FullName = () => {
   return (
-    <div>
+    <div className='name'>
         <p>Fedi abdelmalak</p>
     </div>
   )
